@@ -53,4 +53,4 @@ topics in a simple and practical way.
 
 ## Contact
 - GitHub: [your-github-username](https://github.com/your-github-username)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- Telegram: [your-telegram](@Innova_physicsss)
